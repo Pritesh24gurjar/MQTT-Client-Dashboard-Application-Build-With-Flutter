@@ -2,6 +2,33 @@
 
 ## 📦 Application Structure
 
+## 📂 App Drawer
+
+Accessed via hamburger button or left-swipe gesture.
+
+<img src="Sample%20Pics/1.1.jpeg" width="400"/>
+
+
+### Sections:
+1. **Dashboard** – View rooms/devices.
+2. **Main Page** – Return to broker list.
+3. **Message Page (Advanced)** – Publish/subscribe topics.
+4. **Light ON/OFF** – Control lights.
+5. **Logging Page** – See message logs.
+
+---
+
+## 📊 Dashboard
+
+<img src="Sample%20Pics/6.jpeg" width="400"/>
+<img src="Sample%20Pics/7.jpeg" width="400"/>
+
+### Features:
+- Shows configured rooms and devices.
+- Tap a card to open control view.
+- Long-press to update/delete configuration.
+
+
 ---
 
 ## 🏠 Main Page
@@ -29,34 +56,6 @@ This page is used to configure the broker connection.
 - Input broker details: IP, port, username, password.
 - Choose from multiple protocols: MQTT, MQTT over SSL/TLS, WS/WSS.
 - Save configuration to database and display on main page.
-
----
-
-## 📂 App Drawer
-
-Accessed via hamburger button or left-swipe gesture.
-
-<img src="Sample%20Pics/1.1.jpeg" width="400"/>
-
-
-### Sections:
-1. **Dashboard** – View rooms/devices.
-2. **Main Page** – Return to broker list.
-3. **Message Page (Advanced)** – Publish/subscribe topics.
-4. **Light ON/OFF** – Control lights.
-5. **Logging Page** – See message logs.
-
----
-
-## 📊 Dashboard
-
-<img src="Sample%20Pics/6.jpeg" width="400"/>
-<img src="Sample%20Pics/7.jpeg" width="400"/>
-
-### Features:
-- Shows configured rooms and devices.
-- Tap a card to open control view.
-- Long-press to update/delete configuration.
 
 ---
 
